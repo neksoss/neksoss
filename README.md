@@ -10,7 +10,7 @@
   My approach combines creativity with precision to deliver impactful digital experiences.
 </p>
 
-## 🛠️ Tools & Technologies I Use
+<h2 align="center"> 🛠️ Tools & Technologies I Use/h2>
 
 <p align="center">
   <img src="./icons/photoshop.svg" width="48" style="margin-right:32px;" />
