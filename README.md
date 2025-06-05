@@ -1,13 +1,3 @@
-<p align="center">
-  <img src="./icons/photoshop.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/illustrator.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/indesign.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/aftereffects.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/premierepro.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/figma.svg" width="48" style="margin-right:32px;" />
-  <img src="./icons/blender.svg" width="48" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Jakub!</h1>
 
 <h3 align="center">🎨 Product & Graphic Designer</h3>
@@ -20,7 +10,17 @@
   My approach combines creativity with precision to deliver impactful digital experiences.
 </p>
 
----
+## 🛠️ Tools & Technologies I Use
+
+<p align="center">
+  <img src="./icons/photoshop.svg" width="48" style="margin-right:32px;" />
+  <img src="./icons/illustrator.svg" width="48" style="margin-right:32px;" />
+  <img src="./icons/indesign.svg" width="48" style="margin-right:32px;" />
+  <img src="./icons/aftereffects.svg" width="48" style="margin-right:32px;" />
+  <img src="./icons/premierepro.svg" width="48" style="margin-right:32px;" />
+  <img src="./icons/figma.svg" width="48" style="margin-right:32px;" />
+  <img src="./icons/blender.svg" width="48" />
+</p>
 
 <h2 align="center">📬 Contact Me</h2>
 
